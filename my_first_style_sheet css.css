@@ -1,0 +1,21 @@
+#paragraph_1 {
+			color : red;
+			}
+			#paragraph_2 {
+			color : green;
+			}
+			#paragraph_3 {
+			color : pink;
+			text-decoration:underline;
+			}
+			#paragraph_4 {
+			color : blue;
+			}
+			#paragraph_5 {
+			color : brown;
+			}
+			
+			button:hover{
+			color:blue;
+			}
+			
